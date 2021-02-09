@@ -11,3 +11,11 @@ z = float(3)
 print(type(x))
 print(type(y))
 print(type(z))
+print(33 == 33.0)
+x = "Python is "
+
+y = "awesome"
+
+z = x + y
+
+print(z)
